@@ -13,8 +13,10 @@ def listeKirici(a):
         else:
             listeKirici(i)
     return  
+
 listeKirici(a)
 print(k)
+
 ```
 # Task 2
 ## Verilen listenin içindeki elemanları tersine döndüren bir fonksiyon yazın.
